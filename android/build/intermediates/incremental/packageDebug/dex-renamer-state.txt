@@ -1,0 +1,7 @@
+#Thu Sep 27 18:23:43 PYT 2018
+base.0=/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3a927e417197b847d591038326cb004b2300c6d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_37b4a86f3d6f78f542d1ef4a1e2ce92f1d18a8f9/classes.dex
+base.1=/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_37b4a86f3d6f78f542d1ef4a1e2ce92f1d18a8f9
+file.0=/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3a927e417197b847d591038326cb004b2300c6d/classes.dex

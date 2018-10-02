@@ -1,0 +1,4 @@
+#Thu Sep 27 15:21:02 PYT 2018
+base.0=/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

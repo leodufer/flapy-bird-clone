@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/virux/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.2/14e97f2799e74334d15c59ae90c6247f36b90429/gdx-backend-android-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14e97f2799e74334d15c59ae90c6247f36b90429">
+        <dex dex="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.6.2_7a7b8ead3d4f74d7e516d2b53df725ace0db26a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3a927e417197b847d591038326cb004b2300c6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/virux/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.2/b4406b97b35d7caf7111400ceebc8b92c8998168/gdx-box2d-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4406b97b35d7caf7111400ceebc8b92c8998168">
+        <dex dex="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.6.2_2e6afb33333578ba9973af586f0330e526ce099d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/virux/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.2/b70b1eb9da71076aa47ac8932b42358b00db84a0/gdx-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b70b1eb9da71076aa47ac8932b42358b00db84a0">
+        <dex dex="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.6.2_3aa45701dad0f1b153311e0ea2965e4c27c4fc86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df2d7be905434539e715f0c923d1aee45ce8dd1f">
+        <dex dex="/home/virux/AndroidStudioProjects/FlappyDemo/android/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_37b4a86f3d6f78f542d1ef4a1e2ce92f1d18a8f9/classes.dex" />
+    </item>
+
+</items>
